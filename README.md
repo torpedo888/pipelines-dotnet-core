@@ -1,3 +1,4 @@
+[![Board Status](https://torpedo888-gmail.visualstudio.com/ef126dcc-d6aa-4176-8482-03063e280d02/08c89b2f-7946-4df6-ad69-896af5385897/_apis/work/boardbadge/f64d4fda-d92d-4464-8f56-36dc2503b883)](https://torpedo888-gmail.visualstudio.com/ef126dcc-d6aa-4176-8482-03063e280d02/_boards/board/t/08c89b2f-7946-4df6-ad69-896af5385897/Microsoft.RequirementCategory)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
